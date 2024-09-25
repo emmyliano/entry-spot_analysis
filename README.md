@@ -26,7 +26,7 @@ This Python script analyzes a list of floating-point numbers, extracts the last 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/last-digit-mode-finder.git
+    git clone https://github.com/emmyliano/entry-spot_analysis
     ```
 2. Navigate to the project directory:
     ```bash
