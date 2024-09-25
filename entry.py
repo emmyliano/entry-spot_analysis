@@ -178,7 +178,7 @@ last_digits = [int(str(num)[-1]) for num in numbers]
 digit_counts = Counter(last_digits)
 
 # Find the most common digits
-most_common_digits = digit_counts.most_common(5)  # Top 5 most common digits
+most_common_digits = digit_counts.most_common(3)  # Top 3 most common digits
 
 # Display the results
 for i, (digit, count) in enumerate(most_common_digits, start=1):
